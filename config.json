@@ -1,0 +1,9 @@
+{
+    "output_dir": "results",
+    "rockyou_wordlist": "C:\\Users\\joshu\\PycharmProjects\\video\\snoopy v2\\wordlists\\rockyou.txt",
+    "dirbuster_wordlist": "C:\\Users\\joshu\\PycharmProjects\\video\\snoopy v2\\wordlists\\dirsearch.txt",
+    "required_tools": ["amass", "sublist3r", "theHarvester", "nmap", "gobuster", "nikto", "wpscan", "sqlmap", "python3", "ffuf", "searchsploit", "enum4linux", "hydra"],
+    "scan_rate": 2,
+    "randomize": true,
+    "stealth_mode": true
+}
